@@ -1,0 +1,14 @@
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\bin\Debug\net8.0\NúmeorosPrimos.exe
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\bin\Debug\net8.0\NúmeorosPrimos.deps.json
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\bin\Debug\net8.0\NúmeorosPrimos.runtimeconfig.json
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\bin\Debug\net8.0\NúmeorosPrimos.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\bin\Debug\net8.0\NúmeorosPrimos.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\NúmeorosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\NúmeorosPrimos.AssemblyInfoInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\NúmeorosPrimos.AssemblyInfo.cs
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\NúmeorosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\NúmeorosPrimos.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\refint\NúmeorosPrimos.dll
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\NúmeorosPrimos.pdb
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\NúmeorosPrimos.genruntimeconfig.cache
+C:\Users\kauan\OneDrive\Área de Trabalho\NúmeorosPrimos\obj\Debug\net8.0\ref\NúmeorosPrimos.dll
